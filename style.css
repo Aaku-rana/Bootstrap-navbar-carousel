@@ -60,7 +60,9 @@
     .top-bar-icon{
         margin-left: -90px;
     }
-    
+    #mobile-grp-btn{
+        margin: 10px 0px 15px 0px;
+    } 
 }
 @media only screen and (min-width: 768px){
 .navbar-nav>li>a {
